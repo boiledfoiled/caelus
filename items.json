@@ -1,0 +1,654 @@
+[
+  {
+    "Item": "Poisoned Horns of the Toxic Wasteland",
+    "Value": 21200,
+    "Demand": "High",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Lord of the Federation",
+    "Value": 20700,
+    "Demand": "High",
+    "Trend": "Stable"
+  },
+  {
+    "Item": "Dominus Frigidus",
+    "Value": 17000,
+    "Demand": "High",
+    "Trend": "Fluctuating"
+  },
+  {
+    "Item": "Ghosdeeri",
+    "Value": 16000,
+    "Demand": "Mid",
+    "Trend": "Stable"
+  },
+  {
+    "Item": "Dominus Empyreus",
+    "Value": 16000,
+    "Demand": "High",
+    "Trend": "Stable"
+  },
+  {
+    "Item": "Dominus Rex",
+    "Value": 13900,
+    "Demand": "Mid",
+    "Trend": "Stable"
+  },
+  {
+    "Item": "Frozen Horns of the Frigid Planes",
+    "Value": 13000,
+    "Demand": "High",
+    "Trend": "Stable"
+  },
+  {
+    "Item": "Red Glowing Eyes",
+    "Value": 11900,
+    "Demand": "High",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Dominus Messor",
+    "Value": 11400,
+    "Demand": "High",
+    "Trend": "Fluctuating"
+  },
+  {
+    "Item": "White Sparkle Time Fedora",
+    "Value": 11200,
+    "Demand": "Mid",
+    "Trend": "Fluctuating"
+  },
+  {
+    "Item": "The Void Star",
+    "Value": 9500,
+    "Demand": "High",
+    "Trend": "Stable"
+  },
+  {
+    "Item": "Black Iron King of the Night",
+    "Value": 9450,
+    "Demand": "Mid",
+    "Trend": "Stable"
+  },
+  {
+    "Item": "Fiery Horns of the Netherworld",
+    "Value": 9000,
+    "Demand": "High",
+    "Trend": "Stable"
+  },
+  {},
+  {
+    "Item": "Dual Darkhearts",
+    "Value": 7400,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Red Tango",
+    "Value": 6000,
+    "Demand": "High",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Viscount of the Federation",
+    "Value": 6000,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Red Sparkle Time Fedora ",
+    "Value": 5000,
+    "Demand": "High",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Sparkle Time Fedora",
+    "Value": 4600,
+    "Demand": "High",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Yum!",
+    "Value": 4600,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Clockworks Headphones",
+    "Value": 4000,
+    "Demand": "High",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Clockworks Shades",
+    "Value": 4000,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Valkyrie Helm",
+    "Value": 3800,
+    "Demand": "High",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "The Classic Roblox Fedora",
+    "Value": 3600,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Dual Illuminas",
+    "Value": 3000,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "The Ice Skull of Nevermoor",
+    "Value": 3000,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Dominus Formidulosus",
+    "Value": 3000,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": ":( Front Stand",
+    "Value": 2600,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Viridian Domino Crown",
+    "Value": 2450,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Bluesteel Horns Of Pwnage",
+    "Value": 2400,
+    "Demand": "High",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Telamons Chicken Suit",
+    "Value": 2300,
+    "Demand": "High",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Soviet Ushanka",
+    "Value": 2200,
+    "Demand": "High",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Ice Valkyrie",
+    "Value": 2100,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Blue Clockworks Headphones",
+    "Value": 2050,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "WC Ultimates: Sugilite Satisfaction",
+    "Value": 1650,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Playful Vampire",
+    "Value": 1600,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Prankster",
+    "Value": 1550,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Blizzard Beast Mode",
+    "Value": 1500,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "BFF Key",
+    "Value": 1500,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "BFF Lock",
+    "Value": 1500,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Super Super Happy Face",
+    "Value": 1500,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Black Iron Bucket of Ultimate Pwnage",
+    "Value": 1400,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "JJ5x5's White Top Hat",
+    "Value": 1350,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "The Dog Whisperer",
+    "Value": 1200,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Silver King Of The Night",
+    "Value": 1200,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Radioactive Beast Mode",
+    "Value": 1150,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Black Iron Horns",
+    "Value": 1100,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "CW Ultimate: Sapphire Serenity",
+    "Value": 1050,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Adurite King of the Night",
+    "Value": 1000,
+    "Demand": "Mid",
+    "Trend": "NA"
+  },
+  {
+    "Item": "Evil Skeptic",
+    "Value": 980,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Tattletale",
+    "Value": 925,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Death Metal Headphones",
+    "Value": 850,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Gold Emperor of the Night",
+    "Value": 800,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Infernal Undead Immortal Sword",
+    "Value": 800,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Crown Of Knowledge",
+    "Value": 780,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Beast Mode",
+    "Value": 750,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Supa Dupa Fly Cap",
+    "Value": 750,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Perfectly Legitimate Business Hat",
+    "Value": 725,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Punk Face",
+    "Value": 700,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Black Iron Antlers",
+    "Value": 650,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Scissors",
+    "Value": 625,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "8-Bit Royal Crown",
+    "Value": 500,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Adurite Antlers",
+    "Value": 485,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Level up troll",
+    "Value": 475,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Green Amazeface",
+    "Value": 450,
+    "Demand": "Terrible",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Kuddle E. Koala",
+    "Value": 450,
+    "Demand": "Terrible",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Princess Hat",
+    "Value": 435,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Troublemaker",
+    "Value": 425,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Neon Pink Shaggy",
+    "Value": 415,
+    "Demand": "Terrible",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Neon Green Equinox",
+    "Value": 410,
+    "Demand": "Horrendous ",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Panda Knit",
+    "Value": 405,
+    "Demand": "Terrible",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Ultimate Pink Victory",
+    "Value": 400,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Lime Green Shaggy",
+    "Value": 400,
+    "Demand": "Terrible",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Bling Clock",
+    "Value": 400,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Neon Green Beautiful Hair",
+    "Value": 380,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Stickmasterluke's Peanut Butter Sparkle Time",
+    "Value": 350,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "DIY Dominus Empyreus",
+    "Value": 325,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Traffic Cone",
+    "Value": 320,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Sad Clown",
+    "Value": 315,
+    "Demand": "Terrible",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Gold Clockwork Headphones",
+    "Value": 300,
+    "Demand": "Terrible",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Azure Pinstipe Fedora",
+    "Value": 275,
+    "Demand": "Terrible",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Skull Bandit",
+    "Value": 265,
+    "Demand": "Terrible",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Where are the eggs?",
+    "Value": 255,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Silverthorn Antlers",
+    "Value": 250,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Crimson Katana of the Unsetting Sun",
+    "Value": 250,
+    "Demand": "Terrible",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Crimson Shaggy",
+    "Value": 245,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Blinking Egg of Relocation",
+    "Value": 240,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "LOL DAY CAP",
+    "Value": 225,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Protest Sign: Noobs",
+    "Value": 215,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "The Moon",
+    "Value": 200,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Black Iron Commando",
+    "Value": 200,
+    "Demand": "Terrible",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Classic Hat Stack",
+    "Value": 200,
+    "Demand": "Terrible",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "RoBLING",
+    "Value": 200,
+    "Demand": "Horrendous ",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Sk12r Boi",
+    "Value": 200,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Watermelon",
+    "Value": 185,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Tentacles Junior",
+    "Value": 180,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Sinister Fedora",
+    "Value": 175,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Rabid Egg",
+    "Value": 150,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Dancing apple",
+    "Value": 150,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Dancing banana",
+    "Value": 150,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Dancing strawberry",
+    "Value": 150,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Bucket of the Sea",
+    "Value": 150,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Blue Eyeroll",
+    "Value": 150,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Shaggy",
+    "Value": 125,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Brainwave Detector",
+    "Value": 115,
+    "Demand": "Low",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Brainfreeze Egg",
+    "Value": 100,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Deviled Egg",
+    "Value": 100,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "ROBLOX Classic: Wizard's Hat",
+    "Value": 95,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "White Krazy Kitty",
+    "Value": 80,
+    "Demand": "Horrendous",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "haha 420 funny"
+  }
+]
