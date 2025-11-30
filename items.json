@@ -115,13 +115,13 @@
     "Trend": "N/A"
   },
   {
-    "Item": "Clockworks Headphones",
+    "Item": "Clockwork's Headphones",
     "Value": 4000,
     "Demand": "High",
     "Trend": "N/A"
   },
   {
-    "Item": "Clockworks Shades",
+    "Item": "Clockwork's Shades",
     "Value": 4000,
     "Demand": "Mid",
     "Trend": "N/A"
@@ -193,7 +193,7 @@
     "Trend": "N/A"
   },
   {
-    "Item": "Blue Clockworks Headphones",
+    "Item": "Blue Clockwork Headphones",
     "Value": 2050,
     "Demand": "Low",
     "Trend": "N/A"
