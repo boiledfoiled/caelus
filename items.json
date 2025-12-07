@@ -77,7 +77,6 @@
     "Demand": "High",
     "Trend": "Stable"
   },
-  {},
   {
     "Item": "Dual Darkhearts",
     "Value": 7400,
@@ -153,6 +152,12 @@
   {
     "Item": "Dominus Formidulosus",
     "Value": 3000,
+    "Demand": "Mid",
+    "Trend": "N/A"
+  },
+  {
+    "Item": "Al Capwn",
+    "Value": 2820,
     "Demand": "Mid",
     "Trend": "N/A"
   },
@@ -649,6 +654,9 @@
     "Trend": "N/A"
   },
   {
-    "Item": "haha 420 funny"
+    "Item": "haha 420 funny",
+    "Value": null,
+    "Demand": null,
+    "Trend": null
   }
 ]
